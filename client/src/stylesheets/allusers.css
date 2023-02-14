@@ -1,0 +1,14 @@
+.allusers {
+    overflow-x: hidden;
+    width: 98%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+@media only screen and (max-width: 700px)
+{
+    .allusers {
+        overflow-x: hidden;
+        width: 100%;
+    }
+}
